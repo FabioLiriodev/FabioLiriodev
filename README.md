@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://github.com/FabioLiriodev/FabioLiriodev/assets/140852220/611f9d2e-fa5e-4065-a68a-1dd6f7fb9e5b" width=250>
+<img src="https://github.com/FabioLiriodev/FabioLiriodev/assets/140852220/611f9d2e-fa5e-4065-a68a-1dd6f7fb9e5b" width=250 alt="imagem de um gato laranja gerada por ia">
 
 </div>
 
@@ -14,7 +14,7 @@ No futuro, pretendo desenvolver aplicativos que otimizem processos em diversos s
 Então, vamos lá...
 
 <div align="center">
-<img src="https://media.tenor.com/330y0opJ25IAAAAM/cat-typing.gif">
+<img src="https://media.tenor.com/330y0opJ25IAAAAM/cat-typing.gif" alt="gif de um gato cinza digitando no teclado de um notebook">
 </div>
 
 <h2> 🚀 Tecnologias e Ferramentas 🚀 </h2>
@@ -29,3 +29,8 @@ Então, vamos lá...
 <h2> 🚧 Projetos em desenvolvimento 🚧 </h2>
 
 >>**Arpeggio** - um comparador de streaming de música que usa APIs para retornar a quantidade de álbuns de um determinado artista ou banda para cada serviço de streaming de música, permitindo ao usuário selecionar o serviço mais vantajoso em função de sua preferência musical.
+
+<h2> ⌛ Minhas estatísticas ⌛ </h2>
+
+[![GitHub stats de FabioLiriodev](https://github-readme-stats.vercel.app/api?username=FabioLiriodev)](https://github.com/anuraghazra/github-readme-stats)
+
