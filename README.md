@@ -30,6 +30,10 @@ Então, vamos lá...
 
 >>**Arpeggio** - um comparador de streaming de música que usa APIs para retornar a quantidade de álbuns de um determinado artista ou banda para cada serviço de streaming de música, permitindo ao usuário selecionar o serviço mais vantajoso em função de sua preferência musical.
 
+>> **7 Days of Code - Responsividade - Alura** - desenvolvimento de um site de um agendador de consultas médicas responsivo para celulares, tablets e desktops.
+
+<h2> ✅ Projetos concluídos ✅ </h2>
+
 >>**7 Days of Code - HTML e CSS - Alura** - desenvolvimento de um site para uma empresa de RH fictícia chamada Optimus Tech a partir de um protótipo do Figma. 
 
 <h2> ⌛ Minhas estatísticas ⌛ </h2>
