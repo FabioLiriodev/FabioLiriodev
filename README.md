@@ -3,13 +3,13 @@
 
 <div align="center">
 
-<img src="https://github.com/FabioLiriodev/FabioLiriodev/assets/140852220/611f9d2e-fa5e-4065-a68a-1dd6f7fb9e5b" width=250 alt="imagem de um gato laranja gerada por ia">
+<img src="https://github.com/FabioLiriodev/FabioLiriodev/assets/140852220/611f9d2e-fa5e-4065-a68a-1dd6f7fb9e5b" width=250 alt="imagem de um gato laranja no estilo Matrix gerada por ia">
 
 </div>
 
-Atualmente, estou aprendendo programação na **Escola de Tecnologia da Alura**, mais especificamente desbravando o universo do **Front-End** (HTML, CSS e Javascript). Sou um entusiasta de tecnologia e acredito que cada vez mais a tecnologia pode ser usada na resolução de desafios e problemas.
+Atualmente, estou estudando programação na **Escola de Tecnologia da Alura**, mais especificamente desbravando o universo do **Front-End** (HTML, CSS e Javascript). Sou um entusiasta de tecnologia e acredito que cada vez mais a tecnologia pode ser usada na resolução de desafios e problemas em diversos setores da sociedade.
 
-No futuro, pretendo desenvolver aplicativos que otimizem processos em diversos setores.
+Nos últimos meses, tenho estudado arduamente para desenvolver projetos na forma de soluções tecnológicas que entreguem valor aos usuários, além de projetos para composição do meu portfólio com objetivo de obter minha vaga na área da programação. 
 
 Então, vamos lá...
 
@@ -30,7 +30,7 @@ Então, vamos lá...
 
 >>**Arpeggio** - um comparador de streaming de música que usa APIs para retornar a quantidade de álbuns de um determinado artista ou banda para cada serviço de streaming de música, permitindo ao usuário selecionar o serviço mais vantajoso em função de sua preferência musical.
 
->> **7 Days of Code - Responsividade - Alura** - desenvolvimento de um site de um agendador de consultas médicas responsivo para celulares, tablets e desktops.
+>> **Cervejaria Aqui tem Cerveja** - um portal de uma cervejaria fictícia chamada Aqui tem Cerveja que dispõe de um catálogo de cervejas artesanais fictícias e um harmonizador de cervejas artesanais que será desenvolvido com a linguagem de programação Javascript.
 
 <h2> ✅ Projetos concluídos ✅ </h2>
 
