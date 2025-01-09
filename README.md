@@ -3,13 +3,14 @@
 
 Atualmente, estou estudando programação na **Escola de Tecnologia da Alura**, mais especificamente desbravando o universo do **Front-End** (HTML, CSS e Javascript). Sou um entusiasta de tecnologia e acredito que cada vez mais a tecnologia pode ser usada na resolução de desafios e problemas em diversos setores da sociedade.
 
-Nos últimos meses, tenho estudado arduamente para desenvolver projetos na forma de soluções tecnológicas que entreguem valor aos usuários, além de projetos para composição do meu portfólio com objetivo de obter minha vaga na área da programação. 
+Nos últimos meses, tenho estudado arduamente para desenvolver projetos na forma de soluções tecnológicas que entreguem valor aos usuários, além de projetos para composição do meu portfólio com objetivo de obter minha vaga na área da programação.
 
-Então, vamos lá...
+_____
+<h2>Minhas estatísticas</h2>
 
-<div align="center">
-<img src="https://media.tenor.com/330y0opJ25IAAAAM/cat-typing.gif" alt="gif de um gato cinza digitando no teclado de um notebook">
-</div>
+
+![FabioLiriodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioLiriodev&show_icons=true&theme=dark)
+
 
 <h2> 🚀 Tecnologias e Ferramentas 🚀 </h2>
 
@@ -30,7 +31,9 @@ Então, vamos lá...
 
 >>**7 Days of Code - HTML e CSS - Alura** - desenvolvimento de um site para uma empresa de RH fictícia chamada Optimus Tech a partir de um protótipo do Figma. 
 
-<h2> ⌛ Minhas estatísticas ⌛ </h2>
 
-[![GitHub stats de FabioLiriodev](https://github-readme-stats.vercel.app/api?username=FabioLiriodev)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
