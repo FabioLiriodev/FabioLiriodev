@@ -104,13 +104,11 @@ _____
 
 ## 🚧 Projetos em desenvolvimento 🚧
 
->>**Arpeggio** - um comparador de streaming de música que usa APIs para retornar a quantidade de álbuns de um determinado artista ou banda para cada serviço de streaming de música, permitindo ao usuário selecionar o serviço mais vantajoso em função de sua preferência musical.
+>>**Arpeggio** - O <a href="https://github.com/FabioLiriodev/Arpeggio">Arpeggio</a> é um comparador de streaming de música que usa APIs para retornar a quantidade de álbuns de um determinado artista ou banda, ou quantidade de episódios de podcasts para cada serviço de streaming de música, permitindo ao usuário selecionar o serviço mais vantajoso em função de sua preferência musical.
 
-O link para acessar o repositório do Arpeggio é: https://github.com/FabioLiriodev/Arpeggio
 
->> **Cervejaria Aqui tem Cerveja** - um portal de uma cervejaria fictícia chamada Aqui tem Cerveja que dispõe de um catálogo de cervejas artesanais fictícias e um harmonizador de cervejas artesanais que será desenvolvido com a linguagem de programação Javascript.
+>> **Cervejaria Aqui tem Cerveja** - A cervejaria fictícia <a href="https://github.com/FabioLiriodev/Aqui-tem-cerveja">Aqui tem Cerveja</a> dispõe de um catálogo de cervejas artesanais fictícias, um harmonizador e um seletor de cervejas artesanais que será desenvolvido com a linguagem de programação Javascript através da obtenção de respostas de JSONs criados pelo desenvolvedor.
 
-O link para acessar o repositório do Aqui tem Cerveja é: https://github.com/FabioLiriodev/Aqui-tem-cerveja
 
 <h2> ✅ Projetos concluídos ✅ </h2>
 
