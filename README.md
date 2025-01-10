@@ -1,27 +1,108 @@
 # 💻 Fábio Lirio
 **`Desenvolvedor Front-End`** 
 
-Atualmente, estou estudando programação na **Escola de Tecnologia da Alura**, mais especificamente desbravando o universo do **Front-End** (HTML, CSS e Javascript). Sou um entusiasta de tecnologia e acredito que cada vez mais a tecnologia pode ser usada na resolução de desafios e problemas em diversos setores da sociedade.
+Meu nome é Fábio Lirio, tenho 40 anos e sou desenvolvedor Front-End. Sou farmacêutico, mestre e doutor em Ciências pela Universidade Federal do Rio de Janeiro. Atuei mais de 12 anos como docente seja em instituições privadas, públicas ou pré-vestibulares comunitários. Além disso, sou um apaixonado por tecnologias e inteligências artificiais. Penso que as tecnologias podem ser usada na resolução de desafios e problemas reais em diversos setores da sociedade.
 
-Nos últimos meses, tenho estudado arduamente para desenvolver projetos na forma de soluções tecnológicas que entreguem valor aos usuários, além de projetos para composição do meu portfólio com objetivo de obter minha vaga na área da programação.
+Confira meus repositórios no Github, onde compartilho meus projetos pessoais e readmes educacionais com o objetivo de contribuir com o aprendizado da comunidade de programadores do Brasil. Acredito que o trabalho colaborativo humaniza a atuação profissional, mas também expande o potencial criativo de cada projeto.
+
+
 
 _____
-<h2>Minhas estatísticas</h2>
+## 📈 Minhas estatísticas 📈
+
+<img  
+    alt="minhas estatísticas" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=FabioLiriodev&show_icons=true&theme=dark&include__all__commits=true&locale=pt-br" 
+/>
+<img  
+    alt="minhas tecnologias" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioLiriodev&show_icons=true&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=7" 
+/>
 
 
-![FabioLiriodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioLiriodev&show_icons=true&theme=dark)
 
+## 🚀 Linguagens e Tecnologias 🚀
 
-<h2> 🚀 Tecnologias e Ferramentas 🚀 </h2>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Canva" 
+    title="Canva"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img fill="FFFFFF"
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+  />
+  <br/>
+  <br/>
 
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/OpenAI-white?style=for-the-badge&logo=openai&logoColor=black">
-<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black">
-<img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=orange">
-
-<h2> 🚧 Projetos em desenvolvimento 🚧 </h2>
+## 🚧 Projetos em desenvolvimento 🚧
 
 >>**Arpeggio** - um comparador de streaming de música que usa APIs para retornar a quantidade de álbuns de um determinado artista ou banda para cada serviço de streaming de música, permitindo ao usuário selecionar o serviço mais vantajoso em função de sua preferência musical.
 
