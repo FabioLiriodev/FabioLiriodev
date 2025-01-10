@@ -1,7 +1,7 @@
 # 💻 Fábio Lirio
 **`Desenvolvedor Front-End`** 
 
-Meu nome é Fábio Lirio, tenho 40 anos e sou desenvolvedor Front-End. Sou farmacêutico, mestre e doutor em Ciências pela Universidade Federal do Rio de Janeiro. Atuei mais de 12 anos como docente seja em instituições privadas, públicas ou pré-vestibulares comunitários. Além disso, sou um apaixonado por tecnologias e inteligências artificiais. Penso que as tecnologias podem ser usada na resolução de desafios e problemas reais em diversos setores da sociedade.
+Meu nome é Fábio Lirio, tenho 40 anos e sou desenvolvedor Front-End. Sou farmacêutico, mestre e doutor em Ciências pela Universidade Federal do Rio de Janeiro. Atuei mais de 12 anos como docente seja em instituições privadas, públicas ou pré-vestibulares comunitários. Além disso, sou um apaixonado por tecnologias e inteligências artificiais. Penso que as tecnologias podem ser usadas na resolução de desafios e problemas reais em diversos setores da sociedade.
 
 Confira meus repositórios no Github, onde compartilho meus projetos pessoais e readmes educacionais com o objetivo de contribuir com o aprendizado da comunidade de programadores do Brasil. Acredito que o trabalho colaborativo humaniza a atuação profissional, mas também expande o potencial criativo de cada projeto.
 
@@ -14,7 +14,7 @@ _____
     alt="minhas estatísticas" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FabioLiriodev&show_icons=true&theme=dark&include__all__commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=FabioLiriodev&show_icons=true&theme=dark&include__all__commits=true&locale=pt-br&hide_rank=true" 
 />
 <img  
     alt="minhas tecnologias" 
@@ -106,7 +106,11 @@ _____
 
 >>**Arpeggio** - um comparador de streaming de música que usa APIs para retornar a quantidade de álbuns de um determinado artista ou banda para cada serviço de streaming de música, permitindo ao usuário selecionar o serviço mais vantajoso em função de sua preferência musical.
 
+O link para acessar o repositório do Arpeggio é: https://github.com/FabioLiriodev/Arpeggio
+
 >> **Cervejaria Aqui tem Cerveja** - um portal de uma cervejaria fictícia chamada Aqui tem Cerveja que dispõe de um catálogo de cervejas artesanais fictícias e um harmonizador de cervejas artesanais que será desenvolvido com a linguagem de programação Javascript.
+
+O link para acessar o repositório do Aqui tem Cerveja é: https://github.com/FabioLiriodev/Aqui-tem-cerveja
 
 <h2> ✅ Projetos concluídos ✅ </h2>
 
