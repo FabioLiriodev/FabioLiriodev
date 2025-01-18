@@ -109,6 +109,8 @@ _____
 
 >> **Cervejaria Aqui tem Cerveja** - A cervejaria fictícia <a href="https://github.com/FabioLiriodev/Aqui-tem-cerveja">Aqui tem Cerveja</a> dispõe de um catálogo de cervejas artesanais fictícias, um harmonizador e um seletor de cervejas artesanais que será desenvolvido com a linguagem de programação Javascript através da obtenção de respostas de JSONs criados pelo desenvolvedor.
 
+>> **Front-End Mentor Challenge - Result Summary Component - a project proposed by Front-End Mentor to develop HTML and CSS skills. The basis project is develop a simple result summary component website with a responsive layout. The challenge proposed also a active return of data incoming from a JSON using Javascript. 
+
 
 <h2> ✅ Projetos concluídos ✅ </h2>
 
