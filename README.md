@@ -14,13 +14,13 @@ _____
     alt="minhas estatísticas" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FabioLiriodev&show_icons=true&theme=dark&include__all__commits=true&locale=pt-br&hide_rank=true" 
+    src="https://github-readme-stats.vercel.app/api?username=FabioLiriodev&show_icons=true&theme=dracula&include__all__commits=true&locale=pt-br&hide_rank=true" 
 />
 <img  
     alt="minhas tecnologias" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioLiriodev&show_icons=true&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioLiriodev&show_icons=true&layout=compact&theme=dracula&custom_title=Tecnologias&langs_count=7" 
 />
 
 
