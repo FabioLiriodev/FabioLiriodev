@@ -115,7 +115,8 @@ _____
 
 <h2> ✅ Projetos e desafios concluídos ✅ </h2>
 
->>**7 Days of Code - HTML e CSS - Alura** - desenvolvimento de um site para uma empresa de RH fictícia chamada Optimus Tech a partir de um protótipo do Figma. 
+>>**7 Days of Code - HTML e CSS - Alura** - desenvolvimento de um site para uma empresa de RH fictícia chamada Optimus Tech a partir de um protótipo do Figma.
+
 >> **Front-End Mentor Challenge** - Result Summary Component - a project proposed by Front-End Mentor to develop HTML and CSS skills. The basis project is develop a simple result summary component website with a responsive layout. The challenge proposed also a active return of data incoming from a JSON using Javascript. 
 
 
