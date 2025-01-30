@@ -110,14 +110,13 @@ _____
 >> **Cervejaria Aqui tem Cerveja** - A cervejaria fictícia <a href="https://github.com/FabioLiriodev/Aqui-tem-cerveja">Aqui tem Cerveja</a> dispõe de um catálogo de cervejas artesanais fictícias, um harmonizador e um seletor de cervejas artesanais que será desenvolvido com a linguagem de programação Javascript através da obtenção de respostas de JSONs criados pelo desenvolvedor.
 
 
->> **Recriando a Interface do Netflix** - Desafio de programação proposto pela Dio para aprimoramento das habilidades de HTML, CSS e Javascript. O projeto conta com a liberdade criativa para o desenvolvedor conceber novas ideias de produtos, mas com o foco no desenvolvimento de uma interface de streaming de filmes e séries.
-
-
 <h2> ✅ Projetos e desafios concluídos ✅ </h2>
 
 >>**7 Days of Code - HTML e CSS - Alura** - desenvolvimento de um site para uma empresa de RH fictícia chamada Optimus Tech a partir de um protótipo do Figma.
 
->> **Front-End Mentor Challenge** - Result Summary Component - a project proposed by Front-End Mentor to develop HTML and CSS skills. The basis project is develop a simple result summary component website with a responsive layout. The challenge proposed also a active return of data incoming from a JSON using Javascript. 
+>> **Front-End Mentor Challenge** - Result Summary Component - a project proposed by Front-End Mentor to develop HTML and CSS skills. The basis project is develop a simple result summary component website with a responsive layout. The challenge proposed also a active return of data incoming from a JSON using Javascript.
+
+>> **Front-End Mentor Challenge** - NFT Preview Card Component Main - a project proposed by Front-End Mentor to develop HTML and CSS skills. The basis project is develop a NFT preview Card with a responsive layout.
 
 
 
