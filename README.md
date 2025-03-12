@@ -102,6 +102,11 @@ _____
   <br/>
   <br/>
 
+<h2> ✅ Projetos Concluídos ✅ </h2>
+
+>>**Bento Grids of Rock Bands** - Bento Grids are widely used as a creative soluction for the summarization of informations in a variety of areas. The idea concept of project was to create three Bento-Grids containing main information of three iconic Rock 'n Roll bands (Led Zeppelin, Deep Purple and Pink Floyd). The project aimed to develop my own hability on grid-containers and grid-items on web development. The project could be access on <a href="https://github.com/FabioLiriodev/bento-grid-rock-bands">Bento-Grids-Rock-Bands</a> directory.
+
+
 ## 🚧 Projetos e desafios em desenvolvimento 🚧
 
 >>**Arpeggio** - O <a href="https://github.com/FabioLiriodev/Arpeggio-APP">Arpeggio</a> é um comparador de streaming de música que usa APIs para retornar a quantidade de álbuns de um determinado artista ou banda, ou quantidade de episódios de podcasts para cada serviço de streaming de música, permitindo ao usuário selecionar o serviço mais vantajoso em função de sua preferência musical.
@@ -110,7 +115,7 @@ _____
 >> **Cervejaria Aqui tem Cerveja** - A cervejaria fictícia <a href="https://github.com/FabioLiriodev/Aqui-tem-cerveja">Aqui tem Cerveja</a> dispõe de um catálogo de cervejas artesanais fictícias, um harmonizador e um seletor de cervejas artesanais que será desenvolvido com a linguagem de programação Javascript através da obtenção de respostas de JSONs criados pelo desenvolvedor.
 
 
-<h2> ✅ Projetos e desafios concluídos ✅ </h2>
+<h2> ✅ Desafios Concluídos ✅ </h2>
 
 >>**7 Days of Code - HTML e CSS - Alura** - desenvolvimento de um site para uma empresa de RH fictícia chamada Optimus Tech a partir de um protótipo do Figma.
 
