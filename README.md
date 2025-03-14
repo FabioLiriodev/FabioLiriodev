@@ -1,6 +1,10 @@
 # 💻 Fábio Lirio
 **`Desenvolvedor Front-End`** 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+Welcome,+stranger!;My+name+is+Fábio!;Nice+to+meet+you!;I+´m+a+front-end+developer!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Welcome to my README profile!">
+</p>
+
 Meu nome é Fábio Lirio, tenho 40 anos e sou desenvolvedor Front-End. Sou farmacêutico, mestre e doutor em Ciências pela Universidade Federal do Rio de Janeiro. Atuei mais de 12 anos como docente seja em instituições privadas, públicas ou pré-vestibulares comunitários. Além disso, sou um apaixonado por tecnologias e inteligências artificiais. Penso que as tecnologias podem ser usadas na resolução de desafios e problemas reais em diversos setores da sociedade.
 
 Confira meus repositórios no Github, onde compartilho meus projetos pessoais e readmes educacionais com o objetivo de contribuir com o aprendizado da comunidade de programadores do Brasil. Acredito que o trabalho colaborativo humaniza a atuação profissional, mas também expande o potencial criativo de cada projeto.
