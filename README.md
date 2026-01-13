@@ -1,33 +1,9 @@
 # 💻 Fábio Lirio
 **`Desenvolvedor Front-End`** 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+Welcome,+stranger!;My+name+is+Fábio!;Nice+to+meet+you!;I+´m+a+front-end+developer!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Welcome to my README profile!">
-</p>
-
-Meu nome é Fábio Lirio, tenho 40 anos e sou desenvolvedor Front-End. Sou farmacêutico, mestre e doutor em Ciências pela Universidade Federal do Rio de Janeiro. Atuei mais de 12 anos como docente seja em instituições privadas, públicas ou pré-vestibulares comunitários. Além disso, sou um apaixonado por tecnologias e inteligências artificiais. Penso que as tecnologias podem ser usadas na resolução de desafios e problemas reais em diversos setores da sociedade.
+Meu nome é Fábio Lirio, tenho 41 anos e sou desenvolvedor Front-End. Sou farmacêutico, mestre e doutor em Ciências pela Universidade Federal do Rio de Janeiro. Atuei mais de 12 anos como docente seja em instituições privadas, públicas ou pré-vestibulares comunitários. Além disso, sou um apaixonado por tecnologias e inteligências artificiais. Penso que as tecnologias podem ser usadas na resolução de desafios e problemas reais em diversos setores da sociedade.
 
 Confira meus repositórios no Github, onde compartilho meus projetos pessoais e readmes educacionais com o objetivo de contribuir com o aprendizado da comunidade de programadores do Brasil. Acredito que o trabalho colaborativo humaniza a atuação profissional, mas também expande o potencial criativo de cada projeto.
-
-
-
-_____
-## 📈 Minhas estatísticas 📈
-
-<img  
-    alt="minhas estatísticas" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FabioLiriodev&show_icons=true&theme=dracula&include__all__commits=true&locale=pt-br&hide_rank=true" 
-/>
-<img  
-    alt="minhas tecnologias" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioLiriodev&show_icons=true&layout=compact&theme=dracula&custom_title=Tecnologias&langs_count=7" 
-/>
-
-
 
 ## 🚀 Linguagens e Tecnologias 🚀
 
@@ -103,12 +79,23 @@ _____
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
   />
+  <img 
+    align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+  />
+  
   <br/>
   <br/>
 
 <h2> ✅ Projetos Concluídos ✅ </h2>
 
 >>**Bento Grids of Rock Bands** - Bento Grids are widely used as a creative soluction for the summarization of informations in a variety of areas. The idea concept of project was to create three Bento-Grids containing main information of three iconic Rock 'n Roll bands (Led Zeppelin, Deep Purple and Pink Floyd). The project aimed to develop my own hability on grid-containers and grid-items web development. The project could be access on <a href="https://github.com/FabioLiriodev/bento-grid-rock-bands">Bento-Grids-Rock-Bands</a> directory.
+
+>> **Risoteria Formaggio di Minas** - A website of a risotto specialized fictional restaurant developed with Bootstrap Framework. This fictional restaurant uses tradicional cheese as ingredients of the cousine of Minas Gerais, such as Queijo Canastra, Queijo Araxá and Queijo Minas Frescal. This project reinforces the importance of the development of minimalistic, but functional frontend design. 
 
 
 ## 🚧 Projetos e desafios em desenvolvimento 🚧
